@@ -4,18 +4,6 @@
 #include <math.h>
 
 
-// MEU RA = 20151891-5
-// OS SETE DIGITOS = 2 0 1 5 1 8 9
-// OS SETE DIGITOS APOS MULTIPLICAR POR 6.596:
-// 13.192
-// 0
-// 6.596
-// 32.98
-// 6.596
-// 52.768
-// 59.364
-
-
 enum {INPUT_SIZE = 30};
 long vertices = 0, first, second;
 float cost;
